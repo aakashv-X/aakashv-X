@@ -1,9 +1,10 @@
-![MasterHead](https://pin.it/7413wQuoj)
+![MasterHead](https://i.pinimg.com/originals/f5/cc/88/f5cc882eaa11aff3d06e02ebd6dbe4aa.gif)
+
 
 <h1 align="center">Hi 👋, I'm Aakash Vishwakarma</h1>
 <h3 align="center">💡 A tech enthusiast on a continuous journey of learning and building.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://pin.it/7413wQuoj">
+<img align="right" alt="Coding" width="400" src="https://s4.ezgif.com/tmp/ezgif-49880f7070a649.gif">
 
 <p align="left"> <a href="https://twitter.com/aakash_x_" target="blank"><img src="https://img.shields.io/twitter/follow/aakash_x_?logo=twitter&style=for-the-badge" alt="aakash_x_" /></a> </p>
 
