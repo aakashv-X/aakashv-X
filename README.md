@@ -6,7 +6,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/d1/35/56/d13556ec053cffc2410a682ee33436d6.jpg">
 
-
 <p align="left"> <a href="https://twitter.com/aakash_x_" target="blank"><img src="https://img.shields.io/twitter/follow/aakash_x_?logo=twitter&style=for-the-badge" alt="aakash_x_" /></a> </p>
 
 - 🔭 I’m currently working on [traveLLex](https://github.com/aakashv-X/hi-)
